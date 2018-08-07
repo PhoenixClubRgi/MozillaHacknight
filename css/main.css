@@ -800,14 +800,17 @@ html {
     .gear-big {
         top: 750px;
         left: 20px;
+        display:none;
     }
     .gear-small {
         top: 902px;
         left: -42px;
+        display:none;
     }
     .gear-med {
         top: 1580px;
         right: 55px;
+        display:none;
     }
     .sponser-logo {
         /*height: 100px;*/
