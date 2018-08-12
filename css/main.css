@@ -185,6 +185,8 @@ html {
     height: 12.500em;
     width: 12.500em;
     margin-bottom: 40px;
+   margin-left: 38% !important;
+   margin-top: 50px
 
     /*border: 1px solid black;*/
 }
